@@ -1,6 +1,6 @@
 # Use Restrictions
 
-*Last updated: Nov 16, 2022*
+*Last updated: Apr 18, 2023*
 
 If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, we will take necessary action.
 
@@ -17,7 +17,7 @@ If you have an account with any of our products, you can’t use them for any of
 * **Cybersquatting**: We don’t like username extortionists. If you purchase a Depomo product account in someone else’s name and then try to sell that account to them, you are [cybersquatting](https://www.law.cornell.edu/uscode/text/15/1125). Cybersquatting accounts are subject to immediate cancellation.
 * **Infringing on intellectual property**: You can’t use Depomo products to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
-While our use restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Basecamp is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
+While our use restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Chartbrew is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
 
 ## How to report abuse
 
